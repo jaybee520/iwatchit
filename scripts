@@ -1,0 +1,109 @@
+
+# 预约天猫茅台
+# steps = [
+#     {
+#         "image" : 'tmall_images/open_taobao.png',
+#         "desc" : "打开淘宝",
+#         "action": "",
+#         "timeout": 5
+#     },
+#     {
+#         "image" : 'tmall_images/my_taobao.png',
+#         "desc" : "进入我的淘宝",
+#         "action": "",
+#         "timeout": 5
+#     },
+#     {
+#         "image" : 'tmall_images/my_favorites.png',
+#         "desc" : "进入我的收藏",
+#         "action": "",
+#         "timeout": 5
+#     },
+#     {
+#         "image" : 'tmall_images/select_maotai.png',
+#         "desc" : "选择茅台",
+#         "action": "",
+#         "timeout": 5
+#     },
+#     {
+#         "image" : 'tmall_images/yuyue_maotai.png',
+#         "desc" : "预约茅台",
+#         "action": "",
+#         "timeout": 5
+#     },
+#     {
+#         "image" : 'tmall_images/yuyue_chenggong.png',
+#         "desc" : "预约成功",
+#         "action": "",
+#         "timeout": 5
+#     },
+#     {
+#         "image" : 'tmall_images/taobao_tab.png',
+#         "desc" : "淘宝标签页",
+#         "action": "",
+#         "timeout": 5
+#     },
+#     {
+#         "image" : 'tmall_images/close_taobao.png',
+#         "desc" : "关闭淘宝",
+#         "action": "",
+#         "timeout": 2.5
+#     },
+# ]
+
+# steps = [
+#     {
+#         "image" : 'tmall_images/open_taobao.png',
+#         "desc" : "打开淘宝",
+#         "action": "",
+#         "timeout": 5
+#     },
+#     {
+#         "image" : 'tmall_images/my_taobao.png',
+#         "desc" : "进入我的淘宝",
+#         "action": "",
+#         "timeout": 5
+#     },
+#     {
+#         "image" : 'tmall_images/my_favorites.png',
+#         "desc" : "进入我的收藏",
+#         "action": "",
+#         "timeout": 5
+#     },
+#     {
+#         "image" : 'tmall_images/select_maotai.png',
+#         "desc" : "选择茅台",
+#         "action": "",
+#         "timeout": 5
+#     },
+#     {
+#         "image" : 'tmall_images/maotai_shoppingcar.png',
+#         "desc" : "进入茅台购物车",
+#         "action": "",
+#         "timeout": 5
+#     },
+#     {
+#         "image" : 'tmall_images/select_all_shoppingcar.png',
+#         "desc" : "勾选购物车",
+#         "action": "",
+#         "timeout": 5
+#     },
+#     {
+#         "image" : 'tmall_images/jiesuan_shoppingcat.png',
+#         "desc" : "结算购物车",
+#         "action": "start_tmall",
+#         "timeout": 5
+#     },
+#     {
+#         "image" : 'tmall_images/select_alipay.png',
+#         "desc" : "勾选支付宝支付",
+#         "action": "",
+#         "timeout": 5
+#     },
+#     {
+#         "image" : 'tmall_images/tijiaodingdan.png',
+#         "desc" : "提交订单",
+#         "action": "",
+#         "timeout": 5
+#     },
+# ]
